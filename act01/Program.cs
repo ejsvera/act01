@@ -11,7 +11,7 @@ namespace act01
         static void Main(string[] args)
         {
             // version sincronizada con GitHub
-            // usando equipos en lab202 y lab203
+            // usando equipos en lab202 y lab203 y mi notebook (2020)
             //
             Proveedor p1 = new Proveedor();
             Proveedor p2 = new Proveedor();
