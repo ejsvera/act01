@@ -12,7 +12,7 @@ namespace act01
         {
             // version sincronizada con GitHub
             // usando equipos en lab202 y lab203 y mi notebook (2020)
-            //
+            // testeando en Enero 2021
             Proveedor p1 = new Proveedor();
             Proveedor p2 = new Proveedor();
             Cliente c1 = new Cliente();
